@@ -11,3 +11,8 @@ CHANGELOG
 * Updated Flarum core translations.
 
 
+**Added support for new extensions**:
+
+* [`flarum/likes`](https://github.com/flarum/likes)
+
+
