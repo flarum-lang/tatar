@@ -49,6 +49,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum/tt/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/tt/) |
 
 <!-- flarum-extensions-list-stop -->
 
