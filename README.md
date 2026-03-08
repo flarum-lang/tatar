@@ -39,8 +39,8 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/tt/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/tt/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/tt/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/tt/) |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/tt/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/core/tt/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum2/tt/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/validation/tt/) |
 
 
 ## Translation status for official extensions
@@ -49,7 +49,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
-| [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum/tt/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/tt/) |
+| [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/tt/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/flarum-likes/tt/) |
 
 <!-- flarum-extensions-list-stop -->
 
