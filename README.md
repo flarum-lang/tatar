@@ -14,7 +14,7 @@ This language pack contains Tatar translations for Flarum (compatible with `1.7.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/tatar
+composer require "flarum-lang/tatar:*"
 ```
 
 Then enable extension in admin panel of your Flarum.
