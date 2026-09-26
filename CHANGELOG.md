@@ -13,6 +13,6 @@ CHANGELOG
 
 **Added support for new extensions**:
 
-* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/likes`](https://github.com/flarum/likes) (40% complete)
 
 
