@@ -1,26 +1,20 @@
 {
 	"name": "flarum-lang/tatar",
+	"description": "Tatar Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Tatar language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/tatar",
 	"keywords": [
-		"locale",
-		"flarum",
-		"flarum-locale",
-		"tt-locale",
-		"tatar-locale",
-		"tatar"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/tatar",
 	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/flarum-lang/tatar/issues",
+		"forum": "https://discuss.flarum.org/d/40220",
 		"source": "https://github.com/flarum-lang/tatar"
 	},
 	"require": {
 		"flarum/core": "^2.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
 			"title": "Tatar",
@@ -34,12 +28,6 @@
 		"flarum-locale": {
 			"code": "tt",
 			"title": "Tatar"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
 		}
 	}
 }
